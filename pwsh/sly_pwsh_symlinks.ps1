@@ -1,5 +1,5 @@
 # Define source and target paths
-$target = $env:CURRENTUSER + "\.config\pwsh\sly_pwsh.ps1"
+$target = $env:USERPROFILE + "\.config\pwsh\sly_pwsh.ps1"
 $symlink = $PROFILE.CurrentUserCurrentHost
 
 # Ensure the target file exists before creating the symlink

@@ -2680,3 +2680,21 @@ scoop install make cmake
 nvim
 nvm
 nvim
+C:\Users\khamm\.config\pwsh\sly_pwsh_symlinks.ps1
+Install-Module Microsoft.PowerShell.PSResourceGet -Repository PSGallery
+Install-Module PowerShellGet -Force -AllowClobber
+Install-Module gsudo  -Repository PSGallery
+scoop install gsudo
+Install-Module -Name PowerShellGet -Force
+Install-Module PSReadLine
+scoop install starship
+scoop install extras/vcredist2022
+scoop bucket add extras
+scoop install extras/vcredist2022
+scoop uninstall vcredist2022
+ls
+exit
+scoop install komorebi
+scoop install whkd
+cd .\.config\
+ls
