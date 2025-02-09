@@ -1,0 +1,2682 @@
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2021.12.1559732655\pythonFiles\shell_exec.py C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe -m pip install -U ipykernel C:/Users/khammitt/AppData/Local/Temp/tmp-19460tMT4RG4yzx3G.log
+python -m venv venv
+py -m venv venv
+cd Repos
+cd Documents
+cd Repos
+py -m venv venv
+cd venv
+cd Scripts
+.\activate
+cd Test
+cd Documents
+cd Test
+cd Repos
+cd Test
+py -m venv venv
+cd venv/Scripts
+.\activate
+conda -V
+conda create -n extractgzip python=3.10
+$ conda activate extractgzip
+conda activate extractgzip
+py -m venv env
+cd env
+cd Scripts
+.\activate
+conda install gzip
+pip install gzip
+pip install pandas
+pip install pyarrow
+pip install pyperclip
+pip install jinja2
+py -m venv venv
+cd venv/Scripts
+.\activate
+pip install pandas
+pip install re
+pip install datasets
+pip install transformers
+& "c:/Users/khammitt/Documents/Repos/Auto Coding MIMIC Prototype/venv/Scripts/Activate.ps1"
+pip install azure-ai-ml
+pip install azure-identity
+pip install azureml-fsspec
+pip install mltable
+pip install pyarrow
+pip install fastparquet
+& "c:/Users/khammitt/Documents/Repos/Auto Coding MIMIC Prototype/venv/Scripts/Activate.ps1"
+pip install pyperclip
+& "c:/Users/khammitt/Documents/Repos/Auto Coding MIMIC Prototype/venv/Scripts/Activate.ps1"
+pip install transformers datasets
+& "c:/Users/khammitt/Documents/Repos/Auto Coding MIMIC Prototype/venv/Scripts/Activate.ps1"
+cd Desktop
+cd MLOps\ \-\ Transformers
+cd MLOps-Transformers
+cd C:\Users\khammitt\OneDrive - Signature Performance\Desktop\MLOps-Transformers
+py -m venv venv-template
+cd venv-template/Scripts
+.\activate
+cd ..
+cd .
+cd Scripts
+cd ..
+pip install -r requirements.txt
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+py venv venv-template
+py -m venv venv-template
+pip install -r requirements.txt
+pip uninstall all
+pip uninstall freeze
+py -m venv venv-template
+cd venv-template/Scripts
+.\activate
+pip install -r requirements.txt
+cd ..
+pip install -r requirements.txt
+deactivate
+py -m venv venv-template
+cd venv-template/Scripts
+.\activate
+pip install -r requirements.txt
+cd ..
+pip install -r requirements.txt
+pip install transformers
+cd Documents
+cd Repo
+py -m venv venv-template
+cd venv-template/Scripts
+.\activate
+cd ..
+pip install -r requirements.txt
+py -m venv venv-template
+cd venv-template/scripts
+.\activate
+cd ..
+pip install -r requirements.txt
+py -m venv venv-template
+cd venv-template/Scripts
+.\activate
+cd ..
+pip install -r requirements.txt
+cd venv-template/scripts
+.\activate
+cd ..
+pip install evaluate
+& c:/Users/khammitt/Documents/Repos/MLOps-Transformers/venv-template/Scripts/Activate.ps1
+pip install install absl-py nltk rouge_score sentencepiece
+py -m venv venv
+cd venv/Scripts
+.\activate
+cd ..
+pip install -r requirements.txt
+cd documents
+cd repo
+cd repos
+cd '.\icd api testing\'
+py -m venv venv
+cd venv
+cd scripts
+.\activate
+cd ..
+pip install requests
+cd venv/scripts
+.\activate
+cd ..
+pip install ipykernel
+py -m venv venv
+cd venv/scripts
+.\activate
+cd ..
+pip install datasets
+pip install pandas
+pip install jupyter ipykernel
+py -m venv venv
+cd venv/scripts
+.\activate
+cd ..
+pip install datasets pandas jupyter ipykernel
+pip install requests
+cd documents
+cd repo
+pip install pandas
+ssh khammitt@OMACSNDBX02
+py -m venv venv
+cd venv
+cd scripts
+cd activate
+.\activate
+cd ..
+pip install pandas
+py -m venv venv
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.4.1\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.4.1\python_files\deactivate\powershell\envVars.txt
+py venv/scripts
+cd .\venv\Scripts\
+.\activate
+cd .. ..
+cd ..
+pip install grpc
+pip install grpcio
+grpcio==1.66.2grpcio-tools==1.66.2protobuf==5.27.2PyAudio==0.2.14
+pip install grpcio==1.66.2grpcio-tools==1.66.2protobuf==5.27.2PyAudio==0.2.14
+grpcio==1.66.2 grpcio-tools==1.66.2 protobuf==5.27.2 PyAudio==0.2.14
+pip install grpcio==1.66.2 grpcio-tools==1.66.2 protobuf==5.27.2 PyAudio==0.2.14
+py audio_stream.py
+audio_stream.py
+".\audio_stream.py"
+.\audio_stream.py
+run audio_stream.py
+python audio_stream.py
+py -m venv venv
+cd venv
+cd scripts
+.\activate
+cd ..
+pip install transformers
+pip unisntall transformers
+pip uninstall transformers
+cd venv/scripts/
+py -m venv venv
+cd venv/scripts
+.\activate
+cd ..
+pip install transformers
+pip install torch
+pip install torchaudio
+pip install pydub
+pip install --upgrade pip
+py pip install pip --upgrade
+cd venv/scripts
+.\activate
+cd ..
+pip uninstall pydub
+pip install ffmpeg
+pip install librosa
+pip uninstall numpy
+pip install numpy==2.0
+pip install pandas
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.16.1-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.16.1-win32-x64\python_files\deactivate\powershell\envVars.txt
+& c:/Users/khammitt/Documents/Repos/sihi_pilot/venv/Scripts/python.exe c:/Users/khammitt/Documents/Repos/sihi_pilot/audio_stream.py
+cd .\venv\Scripts\
+.\activate
+..
+cd ..
+& c:/Users/khammitt/Documents/Repos/sihi_pilot/venv/Scripts/python.exe c:/Users/khammitt/Documents/Repos/sihi_pilot/audio_stream.py
+python audio_stream_wav.py -s "C:\Users\khammitt\Documents\Repos\sihi_pilot\example.wav"
+& c:/Users/khammitt/Documents/Repos/sihi_pilot/venv/Scripts/python.exe
+cd .\venv\Scripts\
+.\activate
+cd ..
+python audio_stream_wav.py -s "C:\Users\khammitt\Documents\Repos\sihi_pilot\example.wav"
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.16.1-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.16.1-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd venv/scripts
+.\activate
+cd ..
+pip freeze > requirements.txt
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.18.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.18.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd .
+cd ..
+py audio_stream.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.18.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.18.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+py audio_stream.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd venv/sc
+pip install -r .\requirements.txt
+py -m venv venv
+cd .\venv\Scripts\
+.\activate
+cd ..
+pip install -r .\requirements.txt
+py run.py
+pip install pandas
+py run.py
+py run run.py
+pip install pytorch
+pip install torch
+py run run.py
+py run.py
+pip freeze > requirements.txt
+py run.py
+cd .\venv\Scripts\
+.\activate
+cd ..
+py run.py
+pip install openpyxl
+py run.py
+pip install ttkbootstrap
+py run.py
+pip > freeze requirements.txt
+pip freeze > requirements.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+py run.py
+cd venv/script
+cd venv/sc
+cd .\venv\Scripts\
+.\activate
+cd ..
+py run.py
+cd .\venv\Scripts\
+.\activate
+cd ..
+py run.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/khammitt/Documents/Repos/911_audio_file_stt/import struct.py"
+cd .\venv\Scripts\
+.\activate
+cd ..
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/khammitt/Documents/Repos/911_audio_file_stt/import struct.py"
+pip install unmpy
+cd venv/scrips
+cd .\venv\Scripts\
+cd act
+.\activate
+cd ..
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/khammitt/Documents/Repos/911_audio_file_stt/import struct.py"
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+& c:/Users/khammitt/Documents/Repos/911_audio_file_stt/venv/Scripts/python.exe "c:/Users/khammitt/Documents/Repos/911_audio_file_stt/import struct.py"
+cd .\venv\Scripts\
+.\activate
+cd ..
+py run.py
+py -m venv venv
+cd .\venv\Scripts\
+.\activate
+cd ..
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+pip install whisper-cpp-pybind
+cd .\venv\Scripts\
+.\activate
+cd ..
+pip install torch
+pip install whisper-cpp-pybind
+pip install whispercpp
+pip install transformers
+py transcribe 2.py
+cd .\venv\Scripts\
+.\activate
+cd ..
+py transcribe.py
+pip install whisper
+py transcribe.py
+pip uninstall *
+pip uninstall .
+pip uninstall
+pip uninstall all
+py -m venv venv
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+py transcribe.py
+pip install openai-whisper
+py transcribe.py
+pip install ffmpeg-python
+py transcribe.py
+pip install ffmpeg
+py transcribe.py
+pip install torch
+chco install ffmpeg
+choco install ffmpeg
+chco ?
+Get-ExecutionPolicy
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+pip install pydub
+py transcribe.py
+pip uninstall ffmpeg
+pip uninstall ffmpeg-python
+pip install ffmpeg-python-0.2.0
+pip install ffmpeg-python
+py pip install --upgrade pip
+ffmpeg -version
+conda install ffmpeg-python
+py transcribe.py
+pip install whisper-cpp-python
+py pip install --upgrade pip
+py transcribe.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+py test_whisper_processor.py
+bash ./models/download-ggml-model.sh large-v3-turbo
+wsl --install
+wsl
+wsl --install
+wsl.exe --install
+py test_whisper_processor.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+py run.py
+cd .\Documents\Repos\
+ls -a
+ls
+cd 911_audio_file_stt
+ls
+py run.py
+cd .\venv\sc
+cd .\venv\Scripts\
+.\activate
+cd ..
+py .\run.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+py run.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+py run.py
+cd .\venv\Scripts\
+.\activate
+cd ..
+py run.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+py -m venv venv
+cd .\venv\Scripts\
+.\activate
+cd ..
+py .\espn_api.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:/Users/khammitt/Documents/Repos/banshee-wallace/espn_api.py
+cd .\venv\Scripts\
+.\activate
+cd ..
+pip install pandas
+py -m pip install --upgrade pip
+pip install pandas
+py .\espn_api.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:/Users/khammitt/Documents/Repos/banshee-wallace/espn_api.py
+py .\espn_api.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe
+py .\espn_api.py
+py -m venv venv
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+pip install -r requirements.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+pip install -r requirements.txt
+py install PySide6
+pip install PySide6
+py -m pip install --upgrade pip
+py mainwindow.py
+py -m venv venv
+cd .\venv\Scripts\
+.\activate
+cd ..
+py main.py
+pip install PySide6
+py main.py
+pip install pandas
+py espn_api
+py espn_api.py
+py main.py
+pip install PyQt5
+py main.py
+pip uninstall PyQt5
+py main.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+pip uninstall tkinter
+requirements.txt
+nano requirements.txt
+read requirements.txt
+open requirements.txt
+py requirements.txt
+pip uninstall ttkbootstrap
+pip install PySide6
+py main.py
+pip install watchdog
+py launch.py
+py main.py
+py launch.py
+cd .\venv\Scripts\
+.\activate
+cd ..
+pip install watchdog
+py launch.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+py launch.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+py launch.py
+cd .\Documents\Repos\
+ls
+cd 911_audio_file_stt
+ls
+py launch.py
+cd .\venv\Scripts\
+.\activate
+cd ..
+py launch.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+py launch.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+py launch.py
+cd .\Documents\Repos\911_audio_file_stt\
+cd .\venv\Scripts\
+.\activate
+cd ..
+py launch.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.20.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+py launch.py
+cd .\Documents\
+cd .\Repos\911_audio_file_stt\
+cd .\venv\Scripts\
+.\activate
+cd ..
+py launch.py
+cd .\venv\Scripts\
+cd ..
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+py launch.py
+pip install psycopg2
+py launch.py
+cd .\Videos\s
+cd .\Documents\Repos\bagtron\venv\Scripts\
+.\activate
+cd ..
+ls -a
+ls
+py .\mainwindow.py
+pip install pytz
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+py .\mainwindow.py
+cd .\venv\
+cd .\Scripts\
+.\activate
+cd ..
+py .\mainwindow.py
+cd .\venv\
+cd .\Scripts\
+.\activate
+cd ..
+py launch.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+git config
+git --config
+git --config show
+git
+git help
+git help -a
+cd .\venv\Scripts\
+.\activate
+cd ..
+ls -a
+py .\launch.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+py .\launch.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.0-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.0-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+py .\launch.py
+cd pwd
+pwd
+cd .\Desktop\
+cd ..
+cd .\Documents\
+cd .\Repos\
+cd .\PyOneDark_Qt_Widgets_Modern_GUI\
+cd .\venv\Scripts\
+.\activate
+cd ..
+py launch.py
+cd .\venv\Scripts\
+.\activate
+cd ..
+pip install jupyter ipykernek
+pip install jupyter ipykernel
+py launch.py
+pip install basketball_reference_web_scraper
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.1-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.1-win32-x64\python_files\deactivate\powershell\envVars.txt
+pip uninstall basketball_reference_web_scraper
+pip install nba-api
+pip uninstall nba-api
+pip install nba_api
+pip install certifi
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.1-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.1-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+pip install pip-system-certs
+pip install nba_api
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.1-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.1-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+py launch.py
+cd .\venv\Scripts\
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.1-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.1-win32-x64\python_files\deactivate\powershell\envVars.txt
+.\activate
+cd ..
+py .\launch.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.1-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.1-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+pip install nba-api
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.1-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.1-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\Documents\
+cd .\Repos\
+cd .\PyOneDark_Qt_Widgets_Modern_GUI\
+py -m venv venv
+cd .\venv\Scripts\
+.\activate
+cd ..
+pip install pandas jupyter ipykernel nba_api
+cd ,,
+cd ..
+ls
+rm -r venv
+ls
+cd .\PyOneDark_Qt_Widgets_Modern_GUI\
+ls
+py -m venv venv
+ls
+rm -r venv
+py -m venv venv
+cd .\venv\Scripts\
+.\activate
+cd ..
+ls
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.1-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.1-win32-x64\python_files\deactivate\powershell\envVars.txt
+pip install streamlit
+py .\streamlit.py
+pip install pip_system_certs
+py .\streamlit.py
+pip install nba_api
+pip install jupyter ipykernel pandas
+py .\streamlit.py
+pip install streamlit --upgrade
+pip install pandas requests
+py .\streamlit_app.py
+streamlit run .\streamlit_app.py
+& c:/Users/khammitt/Documents/Repos/PyOneDark_Qt_Widgets_Modern_GUI/venv/Scripts/python.exe
+streamlit run .\streamlit_app.py
+& c:/Users/khammitt/Documents/Repos/PyOneDark_Qt_Widgets_Modern_GUI/venv/Scripts/python.exe
+streamlit run .\streamlit_app.py
+py .\nba_stats.py
+& c:/Users/khammitt/Documents/Repos/PyOneDark_Qt_Widgets_Modern_GUI/venv/Scripts/python.exe
+py .\nba_stats.py
+streamlit run .\streamlit_app.py
+& c:/Users/khammitt/Documents/Repos/PyOneDark_Qt_Widgets_Modern_GUI/venv/Scripts/python.exe
+streamlit run '.\nba_stats.py'
+streamlit run .\streamlit_app.py
+pip install thefuzz
+streamlit run .\streamlit_app.py
+pip install BeautifulSoup
+streamlit run .\streamlit_app.py
+pip install nba-color
+pip install nba_color
+py .\views\test.py
+streamlit run .\streamlit_app.py
+pip install lxml
+streamlit run .\streamlit_app.py
+py nba_stats.py
+streamlit run .\streamlit_app.py
+py .\nba_stats.py
+streamlit run .\streamlit_app.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.2-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.2-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+py .\streamlit_app.py
+pip uninstall streamlit
+pip install streamlit
+py .\streamlit_app.py
+streamlit run .\streamlit_app.py
+pip install st-link-analysis
+streamlit run .\streamlit_app.py
+pip install plotly_express
+streamlit run .\streamlit_app.py
+py nba_stats.py
+streamlit run .\streamlit_app.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.2-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.2-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+streamlit run .\streamlit_app.py
+py nba_stats.py
+streamlit run .\streamlit_app.py
+py nba_stats.py
+streamlit run .\streamlit_app.py
+py nba_stats.py
+streamlit run .\streamlit_app.py
+cd .\venv\Scripts\
+.\activate
+cd ..
+py nba_stats.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.2-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.2-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+streamlit run .\streamlit_app.py
+cd .\venv\Scripts\
+.\activate
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.2-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.2-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd ..
+cd ..
+streamlit run .\streamlit_app.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.2-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.2-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+streamlit run .\streamlit_app.py
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.2-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.2-win32-x64\python_files\deactivate\powershell\envVars.txt
+cd .\venv\Scripts\
+.\activate
+cd ..
+streamlit run .\streamlit_app.py
+cd .\venv\Scripts\
+cd ..
+streamlit run .\streamlit_app.py
+cd .\venv\Scripts\
+.\activate
+cd ..
+streamlit run .\streamlit_app.py
+cd .\venv\Scripts\
+.\activate
+cd ..
+streamlit run .\streamlit_app.py
+ls
+cd .\venv\Scripts\
+.\activate
+cd ..
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.2-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.2-win32-x64\python_files\deactivate\powershell\envVars.txt
+ssh khammitt@omacsndbx01
+ssh khammitt@omacsndx01
+ssh -N -L 8501:localhost:8501 khammitt@omacsndbx01
+ssh -N -L 8888:localhost:8888 khammitt@omacsndbx01
+ssh khammitt@omacsndbx01
+ssh khammitt1@omacsndbx01
+ssh khammitt@omacsndbx01
+ssh -N -L 8501:localhost:8501 khammitt@omacsndbx01
+ssh khammitt@omacsndbx01
+ssh -N -L 8888:localhost:8888 khammitt@omacsndbx01
+ssh -N -L 8501:localhost:8501 khammitt@omacsndbx01
+ssh khammitt@omacsndbx01
+ssh -N -L 8888:localhost:8888 khammitt@omacsndbx01
+ssh -N -L 8501:localhost:8501 khammitt@omacsndbx01
+ssh khammitt@omacsndbx01
+ssh khammitt@omacsndbx01
+ssh -N -L 8888:localhost:8888 khammitt@omacsndbx01
+ssh -N -L 8501:localhost:8501 khammitt@omacsndbx01
+ssh khammitt@omacsndbx01
+ssh -N -L 8501:localhost:8501 khammitt@omacsndbx01
+ssh khammitt@omacsndbx01
+ssh -N -L 8501:localhost:8501 khammitt@omacsndbx01
+ssh khammitt@omacsndbx01
+ssh -N -L 8888:localhost:8888 khammitt@omacsndbx01
+PressTab123
+ssh -N -L 8501:localhost:8501 khammitt@omacsndbx01
+ssh khammitt@omacsndbx01
+ssh -N -L 8888:localhost:8888 khammitt@omacsndbx01
+ssh -N -L 8501:localhost:8501 khammitt@omacsndbx01
+cd ..
+cd .\khammitt\
+ssh khammitt@omacsndbx01
+ssh -N -L 8501:localhost:8501 khammitt@omacsndbx01
+ssh khammitt@omacsndbx01
+ssh -N -L 8888:localhost:8888 khammitt@omacsndbx01
+ssh khammitt@omacsndbx01
+ls
+ssh khammitt@omasndbx01
+ssh khammitt@omacndbx01
+ssh khammitt@omacsndbx01
+ssh -N -L 8501:localhost:8501 khammitt@omacsndbx01
+ssh -N -L 8888:localhost:8888 khammitt@omacsndbx01
+clear
+ssh khammitt@omacsndbx01
+close
+ssh khammitt@omacsndbx01
+clear
+wsl --version
+wsl -version
+wsl
+wsl version
+wsl --v
+wsl --list
+wsl -l -v
+wsl -unregister ubuntu
+wsl --unregister ubuntu
+wsl -v
+wsl --list
+wsl
+wsl.exe --list
+wsl --version
+wsl.exe --list --onlin
+wsl.exe install Ubuntu
+wsl.exe --install ubuntu
+wezterm
+wsl
+nvim
+nvim .wezterm.lua
+$PROFILE
+notepad++ $PROFILE
+nvim $PROFILE
+$Profile | Get-Member -MemberType NoteProperty
+$Profile.CurrentUserCurrentHost
+code $Profile.CurrentUserCurrentHost
+mkdir -p .config/starship
+touch .config/starship/starship.toml
+type nul > .config/starship/starship.toml
+$PROFILE
+$PROFILE -CurrentGroupCurrentUsers
+$PROFILE *`
+
+code $PROFILE.CurrentUserCurrentHost
+nvim .starship.lua
+ls -a
+ls
+reload
+Powershell
+$PROFILE
+fdsf
+export STARSHIP_CONFIG="$HOME/.config/starship/starship.toml"
+$ENV:STARSHIP_CONFIG = "$HOME/.config/starship/starship.toml"
+$HOME
+$ENV:STARSHIP_CONFIG = "$HOME/.config/starship/starship.toml"
+$PROFILE
+code $PROFILE
+\
+$PROFILE
+code $PROFILE
+$PROFILE
+$HOME
+cd $HOME\.config\starship\
+ls
+$STARSHIP_CONFIG
+nvim $STARSHIP_CONFIG
+Powershell
+cmd
+$PROFILE
+browser
+cd $HOME
+config
+wezterm config
+cd Documents
+code $STARSHIP_CONFIG
+Powershell
+exit
+$PSVersionTable
+Powershell --version
+PSVersionTable
+wsl
+wsl.exe --help
+$progressPreference = 'silentlyContinue'
+Write-Host "Installing WinGet PowerShell module from PSGallery..."
+Install-PackageProvider -Name NuGet -Force | Out-Null
+Install-Module -Name Microsoft.WinGet.Client -Force -Repository PSGallery | Out-Null
+Write-Host "Using Repair-WinGetPackageManager cmdlet to bootstrap WinGet..."
+Repair-WinGetPackageManager
+winget
+--heko
+Powershell
+winget search Microsoft.Powershell
+winget install --id Microsoft.Powershell --source winget
+cd $HOME
+winget install wez.wezterm
+wezterm
+winget starship
+winget install starship
+winget uninstall starship
+winget install starship
+$PROFILE
+code $PROFILE
+wsl --version
+wsl
+wsl --set-default-version 2
+lsb_release -a
+wsl
+wezterm --help
+wezterm config
+$WEZTERM_CONFIG_FILE
+$WEZTERM_CONFIG_FINE
+help
+close
+exit
+ls
+cd .\.config\
+ls
+cd wezterm
+ls
+code wezterm.lua
+wsl
+wezterm
+wsl
+wsl.exe --help
+wsl.exe --unregister Ubuntu
+wsl
+wget --help
+winget --help
+winget --list
+winget list
+print(hello)
+$STARSHIP_CONFIG
+$HOME
+$STARSHIP_CONFIG
+Powershell
+starship
+starship.exe config
+Powershell
+starship --help
+starship config
+Powershell
+starship config
+export STARSHIP_CONFIG="$HOME\.config\starship"
+$STARSHIP_CONFIG="$HOME/.config/starship"
+starship --help
+starship init
+starship init Powershell
+starship init powershell
+cd ~
+$PROFILE
+nano $PROFILE
+notepad++ $PROFILE
+note
+wsl
+wsl.exe --list --online
+wsl.exe --install ubuntu
+$PROFILE
+nano $PROFILE
+code $PROFILE
+$PROFILE
+PowerShell
+$STARSHIP_CONFIG
+$PROFILE
+code $PROFILE
+PowerShell
+$STARSHIP_CONFIG
+STARSHIP_CONFIG
+$ENV:STARSHIP_CONFIG="C:\Users\khammitt\.config\starship\"
+powershell
+starship
+starship config
+wsl
+$PROFILE
+code $PROFILE
+Powershell
+where starship
+zsh
+crates
+cargo
+winget list
+winget uninstall starship
+winget uninstall wezterm
+winget uninstall PowerShell 7-x64
+winget list
+winget uninstall "PowerShell 7-x64"
+winget starship uninstall
+winget uninstall starship
+wsl
+winget wezterm
+winget install wezterm
+winget uninstall wezterm
+pip
+winget wez.wezterm
+winget install wez.wezterm
+winget upgrade
+cd ..
+choco
+crates
+pip install wezterm
+winget install WezTerm.WezTerm --accept-package-agreements --accept-source-agreements
+curl -k -LO https://github.com/wez/wezterm/releases/latest/download/WezTerm.msi
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.2-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.2-win32-x64\python_files\deactivate\powershell\envVars.txt
+ls -a
+ls -a
+ls
+ssh khammitt@omacsndbx01
+ssh khammitt@omacsndbx01
+exit()
+jupyter-lab --no-browser
+ssh khammitt@omacsndbox01
+ssh khammitt@omacsndbx01
+ssh -N -L 8888:localhost:8888 khammitt@omacsndbx01
+ssh khammitt@omacsndbx01
+ssh -N -L 8501:localhost:8501 khammitt@omacsndbx01
+ls
+& C:/Users/khammitt/AppData/Local/Programs/Python/Python310/python.exe c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.2-win32-x64\python_files\printEnvVariablesToFile.py c:\Users\khammitt\.vscode\extensions\ms-python.python-2024.22.2-win32-x64\python_files\deactivate\powershell\envVars.txt
+streamlit run .\streamlit_app.py
+PowerShell
+cd .config
+cd wezterm
+nano wezterm.lua
+winget nano
+winget install nano
+nano .\wezterm.lua
+winget install okibcn.nano
+nano .\wezterm.lua
+nano
+nano .\.config\wezterm\wezterm.lua
+nvim .\.config\wezterm\wezterm.lua
+code
+wezterm
+$PROFILE
+code $PROFILE
+$PROFILE
+Powershell
+Powershell --list
+nano $PROFILE
+Powershel
+Powershell
+starship --config
+starship.exe config
+starship.exe config --help
+starship.exe config starship.toml
+starship help
+starship print-config
+starship help
+$ENV:STARSHIP_CONFIG
+$STARSHIP_CONFIG
+starship print-config
+$ENV:STARSHIP_CONFIG
+nano $PROFILE
+PowerShell
+neofetch
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
+$HOME
+C:\Users\khammitt\Documents\Repos\cert_store_handler\ZScalarCertManager.ps1
+powershell -ExecutionPolicy Bypass -File "C:\Users\khammitt\Documents\Repos\cert_store_handler\ZScalarCertManager.ps1"
+exit
+Powershell -Help
+Powershell.exe -Help
+starship help
+starship print-config
+wezterm help
+exit
+wezterm config
+wezterm
+default_prog help
+exit
+$WEZTERM_CONFIG_FILE
+winget search Microsoft.PowerShell
+winget install --id Microsoft.PowerShell --source winget
+pwsh
+$PSHOME
+pwsh
+about
+pwsh about
+pwsh -w ?
+pwsh -h -w
+pwsh.exe -w
+ls
+pws
+pwd
+cd .\Desktop\
+ls
+cd ..
+ls
+cwd
+pwd
+$PROFILE
+nano $
+nano $PROFILE
+pswh
+pwsh
+$HOME
+cd HOME
+cd $HOME
+ls
+cd Desktop
+ls
+ls -a
+WSL
+ls
+rm -r -fo "C:\Users\khammitt\OneDrive - Signature Performance\Desktop\wezterm"
+choco
+scoop
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
+Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
+winget list
+$PROFILE
+nano $PROFILE
+scoop list
+exit
+exit
+pwsh
+fastfetch
+scoop
+scoop install fastfetch
+clear
+fastfetch
+clear
+scoop search oh-my
+scoop install oh-my-posh
+scoop show
+scoop list
+oh-my-posh --h
+notepad $PROFILE
+$PROFILE
+$env:HOME
+$HOME
+$PROFILE
+notepad $PROFILE
+power
+powershell.exe -h
+oh-my-posh -h
+POSH_THEMES_PACK
+$POSH_THEMES_PACK
+oh-my-posh config -h
+oh-my-posh help
+oh-my-posh config
+oh-my-posh config list
+oh-my-posh --c
+ls
+cd .config/
+ls
+.config/oh-my-posh/slimfat.omp.json
+clear
+$HOME/.config/oh-my-posh/slimfat.omp.json
+exit
+cd .\.cache\
+Get-PoshThemes
+fastfetch --info
+scoop search music
+snoop show termusic
+.\scoop\ list
+scoop list
+browse github from terminal
+ssh -N -L khammitt@omacsndbx01
+ssh khammitt@omacsndbx01
+scoop install cowsay
+scoop install lolcat
+scoop search lolcat
+scoop search lol
+scoop install meow
+scoop -h
+scoop bucket
+scoop known bucket
+scoop bucket add extras
+scoop update meow
+scoop install meow
+scoop update meow
+scoop update *
+cowsay
+cowsay -h
+man cowsay
+man -h
+cowsay.ps1
+man cowsay.ps1
+fastfetch
+fastfetch --info
+fastfetch -h
+pws
+pwd
+cd .config
+cd pwsh
+ls
+msedge
+ls
+cd Links
+ls
+cd ..
+Links --help
+exot
+exit
+scoop list
+scoop search glaze
+scoop install glazewm
+GlazeWM
+GlazeWM close
+exit
+scoop install zebar
+scoop uninstall GlazeWM
+scoop install GlazeWM
+GlazeWM
+scoop install fzf
+fzf
+scoop uninstall oh-my-posh
+scoop install starship
+scoop install vcredist2022
+scoop uninstall vcredist2022
+starship config
+nano $PROFILE
+$PROFILE
+notepad $PROFILE
+starship config
+pwsh
+starship -h
+starship toggle -h
+starship -h
+scoop install eza
+Set-Alias -Name ls -Value eza
+ls
+Set-Alias -Name ls -Value "eza"
+ls
+fzf
+ls
+ls -h
+ls help
+ls --help
+Powershell Gallery
+PowerShellGet -h
+ls
+PS Install-module -Name PowerShellGet -AllowPrerelease -Force
+Install-module -Name PowerShellGet -AllowPrerelease -Force
+PackageManager
+PSReadLine -h
+Install-Module -Name PSGalleryExplorer
+Install-Module -Name PSGalleryExplorer -AllowClobber
+PSGalleryExplorer
+$SCOOP
+scoop
+scoop alias
+scoop alias -h
+scoop alias list -vi
+scoop alias list -v
+scoop
+scoop cleanup *
+scoop list
+scoop list -h
+where scoop
+scoop config
+scoop config -show
+scoop config -h
+scoop config
+scoop config master
+scoop config Scoop
+scoop config
+scoop config -v
+cwd
+pwd
+zebar
+zebar -help
+scoop list
+cd
+;s
+ls
+git
+git --version
+git -h
+winget list
+winget upgrade git
+wing upgrade git *
+winget upgrade git *
+winget upgrade "ARP\Machine\X64\Git_is1"
+winget upgrade "ARP\User\X64\Git_is1"
+close
+exit
+;s
+ls
+cd .config
+ls
+cd .\Library\
+ls 
+cd ..
+git clone https://github.com/ChristianLempa/boilerplates.git .\Library\
+cd .\Library\
+ls
+cd ..
+rm -fo .\Library\
+ls
+mkdir Library
+ls
+cd Library
+git clone https://github.com/ChristianLempa/boilerplates.git
+ls
+cd .\boilerplates\
+ls -a
+cd ..
+$PROFILE
+$PROFILE -h
+   code $PROFILE.AllUsersAllHosts
+$PROFILE.AllUsersAllHosts
+$PROFILE -list
+$PROFILE.All
+starship config
+starship where
+ls
+$PROFILE
+nano $PROFILE
+ls
+cd .config
+ls
+cd .\Library\
+ls
+cd ..
+git clone https://github.com/ChristianLempa/cheat-sheets.git .\Library\
+git clone https://github.com/ChristianLempa/cheat-sheets.git .\Library\cheat-sheets
+ls cheat-sheets
+ls .\Library\
+cd .\Library\
+cd .\cheat-sheets\
+ls
+cd ..
+..
+cd ..
+ls
+cd pwsh
+ls
+cp slyle_pwsh.ps1 sly_pwsh.ps1
+ls
+rm -fo .\slyle_pwsh.ps1
+$HOME
+starship config
+$STARSHIP_CONFIG
+PS
+pwsh
+$PROFILE
+nano $PROFILE
+ls
+nano .\sly_pwsh.ps1
+nano $PROFILE
+pwsh
+pws
+pwd
+$PROFILE
+nano $PROFILE
+pwsh
+nano $PROFILE.AllHostsAllUsers
+nano $PROFILE.AllUsersAllHosts
+pswh
+pwsh
+PATH
+$PATH
+$env:PATH
+$HOST
+symlink
+Get-ChildItem -Path "C:\Users\khammitt\.config\pwsh\sly_pwsh.ps1" -Attributes ReparsePoint | Select-Object FullName, Target
+Get-ParentItem -Path "C:\Users\khammitt\.config\pwsh\sly_pwsh.ps1" -Attributes ReparsePoint | Select-Object FullName, Target
+Get-ParentItem -Path "C:\Users\khammitt\OneDrive\Documents\PowerShell\profile.ps1" -Attributes ReparsePoint | Select-Object FullName, Target
+Get-ChildItem -Path "C:\Users\khammitt\OneDrive\Documents\PowerShell\profile.ps1" -Attributes ReparsePoint | Select-Object FullName, Target
+"C:\Users\khammitt\OneDrive\Documents\PowerShell\profile.ps1"
+C:\Users\khammitt\OneDrive\Documents\PowerShell\profile.ps1
+starship preset jetpack -o ~/.config/starship.toml
+starship preset jetpack -o C:\Users\khammitt\.config\starship.toml
+pswh
+pwsh
+lol
+starship config
+scoop list
+starship preset jetpack -o ~/.config/starship.toml
+starship preset jetpack -o C:\Users\khammitt\.config\starship.toml
+pwsh
+cd
+starship config
+fd
+;s
+ls
+cd .\.conda\
+cd ..
+git init lol
+cd lol
+ls
+mkdir lol
+git
+notepad $PROFILE
+pwsh
+time
+starship config
+# Set Starship configuration
+$env:STARSHIP_CONFIG = "$env:USERPROFILE/.config/starship.toml"
+# Ensure PATH includes only necessary directories
+$env:PATH = "$env:USERPROFILE/shortcuts;" + $env:PATH
+# Initialize right prompt variable
+$global:rightPrompt = ""
+# Improve Terminal Integration with Starship PreCommand Hook
+function Invoke-Starship-PreCommand {`
+    $current_location = $executionContext.SessionState.Path.CurrentLocation`
+    if ($current_location.Provider.Name -eq "FileSystem") {`
+        $ansi_escape = [char]27`
+        $provider_path = $current_location.ProviderPath -replace "\\", "/"`
+        $prompt = "$ansi_escape]7;file://${env:COMPUTERNAME}/${provider_path}$ansi_escape\"`
+    }`
+    $host.ui.Write($prompt)`
+    `
+    # Update right prompt content - customize this as needed`
+    $global:rightPrompt = Get-Date -Format "HH:mm:ss"`
+}
+# Custom prompt function that works with Starship
+function prompt {`
+    # Get the Starship prompt`
+    $standardPrompt = (& starship prompt)`
+    `
+    # Calculate the position for the right prompt`
+    $cursorPos = $host.UI.RawUI.CursorPosition`
+    $windowWidth = $host.UI.RawUI.WindowSize.Width`
+    $rightPromptLength = $global:rightPrompt.Length`
+    `
+    # Position and write the right prompt`
+    $spacesToRight = $windowWidth - $cursorPos.X - $rightPromptLength - 1`
+    if ($spacesToRight -gt 0) {`
+        Write-Host (" " * $spacesToRight) -NoNewline`
+        Write-Host $global:rightPrompt -ForegroundColor DarkGray -NoNewline`
+        `
+        # Move cursor back to the end of the standard prompt`
+        $host.UI.RawUI.CursorPosition = $cursorPos`
+    }`
+    `
+    # Return the standard Starship prompt`
+    return $standardPrompt`
+}
+# Initialize Starship
+starship config
+print(hello)
+starship config
+neofetch
+fastfetch
+fastfetch config
+fastfetch -h
+fastfetch list logo
+fastfetch --list-logos
+fastfetch
+fastfetch -h
+fastfetch --gen-config "C:\Users\khammitt\.config\fastfetch"
+fastfetch --gen-config-force "C:\Users\khammitt\.config\fastfetch"
+fastfetch -gen-config
+fastfetch --gen-config
+ssh khammitt@omacsndbx01
+clear
+clear
+ssh khammitt@omacsndbx01
+ls
+ssh khammitt@omacsndbx01
+exit
+ssh -h
+ssh khammitt@omacsndbx01
+wsl --version
+wsl
+ssh khammitt@omacsndbx01
+neofetch
+fastfetch.exe
+starship config
+starship preset pastel-powerline -o ~/.config/starship.toml
+starship preset pastel-powerline -o /.config/starship.toml
+starship preset pastel-powerline -o \.config\starship.toml
+starship preset pastel-powerline -o C:\Users\khammitt\.config\starship.toml
+exit
+exit
+exit
+starship config
+glazeWM config
+glazewm --h
+pwd
+ls
+glaze
+glazeWM
+code %userprofile%\.glzr\glazewm\config.yaml
+glazeWM close
+scoop list
+cd
+sudo scoop install sshpass
+scoop install sshpass
+Install-Module -Name Posh-SSH
+set-executionpolicy remotesigned
+Set-ExecutionPolicy -Scope khammitt remotesigned
+Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
+Install-Module -Name Posh-SSH
+Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
+Set-ExecutionPolicy RemoteSigned
+Install-Module -Name Posh-SSH
+Set-PSResourceRepository
+Set-PSResourceRepository "PSGallery"
+Set-PSResourceRepository -help
+Set-PSRepository -Name "PSGallery" -InstallationPolicy Trusted
+Install-Module -Name Posh-SSH
+Set -PSResourceRepository -Name "PSGallery" -Trusted -PassThru
+Get-PSResourceRepository -Name "PSGallery" -Trusted -PassThru
+Set-PSResourceRepository -Name "PSGallery" -Trusted -PassThru
+Install-Module -Name Posh-SSH
+Install-Module -Name Posh-SSH
+Set-ExecutionPolicy Unrestricted
+Set-ExecutionPolicy -Scope CurrentUser Unrestricted
+Install-Module -Name Posh-SSH
+Get-ExecutionPolicy --List
+Get-ExecutionPolicy -List
+Set-ExecutionPolicy -Scope MachinePolicy Unrestricted
+SetExecutionPolicy -Scope UserPolicy Unrestricted
+Set-ExecutionPolicy -Scope Process Unrestricted
+Install-Module -Name Posh-SSH
+Invoke-WebRequest 'https://www.powershellgallery.com/api/v2/'
+Install-Module -Name Posh-SSH -Force
+Install-Module -Name Posh-SSH
+help
+Update-Help
+pwsh
+alias --list
+Get-Alias
+pwsh --info
+about
+help
+starship config
+starship preset bracketed-segments -o ~/.config/starship.toml
+starship preset bracketed-segments -o $USERPROFILE/.config/starship.toml
+$USERPROFILE
+USERPROFILE
+%USERPROFILE%
+$HOME
+starship preset bracketed-segments -o $HOME/.config/starship.toml
+clear
+Post-SSH
+Posh-SSH -h
+help Posh-SSH
+pwd
+starship config
+scoop install mov-cli
+scoop install lxml
+scoop search lxml
+scoop search xml
+scoop install libxml2
+scoop install libxslt
+fzf
+scoop install mpv
+scoop install icaros-np
+scoop install icaros
+gh auth login
+scoop install gh
+gh auth login
+clear
+clear
+pwsh
+clear
+gh
+git auth login
+gh auth login
+gh config
+gh config list
+gh config -h
+gh config list
+gh config set editor "code"
+gh browse
+gh search code cli
+fzf
+clear
+openssh
+Posh-SSH -h
+help Posh-SSH
+cd $USERPROFILE
+ls
+cd .ssh
+ls
+Get-SSHTrustedHost
+ls
+Get-SSHTrustedHost -h
+help Get-SSHTrustedHost
+Get-SSHTrustedHost -h
+Get-SSHTrustedHost
+mkdir -p $env:USERPROFILE\.config\.poshssh
+if (Test-Path "$HOME\.poshssh\hosts.json") {`
+    Move-Item "$HOME\.poshssh\hosts.json" "$env:USERPROFILE\.config\.poshssh\hosts.json"`
+}
+ls
+cd ..
+cd .\.conda\
+cd -
+cd .\.config\
+;s
+ls
+cd .\.poshssh\
+ls
+.\posh_ssh_symlinks.ps1
+ls
+cd $HOME
+cd $HOME\.poshssh
+ls
+ssh spadminkh@localhost
+New-Item -ItemType SymbolicLink -Path "$env:USERPROFILE\.poshssh" -Target "$env:USERPROFILE\.config\.poshssh"`
+
+Get-Item "$HOME\.poshssh"
+Get-SSHTrustedHost
+New-SSHTrustedHost
+Get-SSHTrustedHost
+help New-SSHNewSession
+New-SSHSSession
+New-SSHSession
+ssh
+help ssh
+ssh
+ssh -F
+Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0
+scoop install gsudo
+cd $HOME/.config/pwsh/
+ls
+nano .\sly_pwsh.ps1
+scoop install sudowin
+scoop search sudo
+gsudo -h
+gsudo cache on
+exit
+Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0
+gsudo !!
+Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0
+gsudo !!
+clear
+$PROMPT
+starship config
+starship config -h
+starship ---help
+starship --help
+starship preset -h
+starship -preset -l
+starship preset -l
+starship preset nerd-font-symbols -o "starship.toml"
+starship config
+starship preset nerd-font-symbols
+starship config
+scoop install
+scoop list
+scoop install zsh
+zsh
+scoop install oh-my-posh
+oh-my-posh
+oh-my-posh upgrade
+pip uninstall starship
+scoop uninstall starship
+oh-my-posh
+oh-my-posh init
+oh-my-posh init pwsh
+nano $PROFILE
+noan
+nano $PROFILE/.config
+nano $PROFILE
+oh-my-posh theme ?
+help oh-my-posh
+oh-my-posh -h
+oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/jandedobbeleer.omp.json'
+oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/1_shell.omp.json'
+scoop list
+nano .\.config\pwsh\sly_pwsh.ps1
+notepad .\.config\pwsh\sly_pwsh.ps1
+scoop search notepad
+scoop notepadplusplus -h
+scoop install notepadplusplus -h
+scoop list notepadplusplus
+scoop install notepadplusplus
+notepad++
+scoop uninstall notepadplusplus
+notepad++ -h
+help notepad++
+notepadplusplus -h
+ls
+Install-Module -Name -Terminal-Icons
+Install-Module -Name Terminal-Icons
+gsudo !!
+scoop install terminal-icons
+notepad++ .\.config\pwsh\sly_pwsh.ps1
+scoop
+scoop list
+scoop search nvim
+neovim
+scoop install neovim
+neovim
+nvim
+cd $HOME/.config/
+ls
+git clone https://github.com/LazyVim/starter C:\Users\khammitt\.config\nvim
+cd .config/
+ls
+rm -fo .\nvim\.git
+rm -rfo .\nvim\.git
+rm -r -fo .\nvim\.git
+nvim
+gsudo rm -r .\nvim\
+ls
+git clone https://github.com/LazyVim/starter $env:LOCALAPPDATA\nvim
+Remove-Item $env:LOCALAPPDATA\nvim\.git -Recurse -Force
+nvim
+scoop search llvm
+scoop install llvm
+refreshenv
+reload
+pwsh
+reload
+oh-my-posh --config
+reload
+pwsh
+# $PROFILE
+reload
+cd .\.config\pwsh\
+.\sly_pwsh.ps1
+reload
+__
+__!
+__:
+__?
+notepad .\.config\pwsh\sly_pwsh.ps1
+open
+notepad .\.config\pwsh\aliases.ps1
+reload
+sudo
+reload
+clear
+reload
+scoop search mov
+gsudo pip install mov-cli -U
+gsudo pip install mov-cli-youtube
+gsudo pip install mov-cli-files
+mov-cli -help
+mov-cli -e
+gsudo pip install lxml
+mov-cli -s youtube currensy
+mov-cli -e
+mov-cli -s youtube currensy
+exit
+mov-cli -s youtube currensy
+mov-cli -s youtube currensy money shot
+mov-cli -s youtube currensy mac
+mov-cli youtube matches mac
+ls
+ls -h
+oh-my-posh
+oh-my-posh completion
+oh-my-posh completion powershell
+mov-cli
+pip install mov-cli-youtube
+cd .config/
+cd pwsh
+ls
+.\sly_ssh.ps1
+omac01
+.\sly_ssh.ps1
+pwsh
+reload
+Set-Alias rlp . $PROFILE
+pwsh
+clera
+clear
+Set-PSReadLineOption
+help Set-PSReadLineOption
+fds
+cd .\.conda\
+cd -
+cd .config
+;s
+ls
+.\ssh\sly_ssh.ps1
+1
+.\ssh\sly_ssh.ps1
+omac01
+$USERPROFILE
+$HOME
+omac01
+omacsndbx01
+cd .ssh
+ls
+omac01
+cd ..
+omac01
+ssh khammitt@omacsndbx01 -i '.\.ssh\id_rsa'
+cd .ssh
+ls
+sudo rm .\id_rsa
+sudo rm .\id_rsa.pub
+ssh-keygen -t ecdsa
+# By default the ssh-agent service is disabled. Configure it to start automatically.
+# Make sure you're running as an Administrator.
+Get-Service ssh-agent | Set-Service -StartupType Automatic
+# Start the service
+Start-Service ssh-agent
+# This should return a status of Running
+Get-Service ssh-agent
+# Now load your key files into ssh-agent
+Stop-Service ssh-agent
+Get-Service ssh-agent
+gsudo Get-Service ssh-agent | Set-Service -StartupType Automatic
+Get-Service
+Get-Service ssh-agent
+$env:USERPROFILE
+ssh-add $env:USERPROFILE\.ssh\id_ecdsa
+$authorizedKey = Get-Content -Path $env:USERPROFILE\.ssh\id_ecdsa.pub
+$remotePowershell = "powershell New-Item -Force -ItemType Directory -Path $env:USERPROFILE\.ssh; Add-Content -Force -Path $env:USERPROFILE\.ssh\authorized_keys -Value '$authorizedKey'"
+ssh-copy-id -i ~/.ssh/id_ed25519.pub khammitt@omacsndbx01
+scoop ssh-copy-id
+scoop ssh
+scoop install ssh
+scoop list ssh
+winget winscp
+winget install winscp
+winscp
+ssh khammitt@omacsndbx01
+omac01
+.\.config\ssh\sly_ssh.ps1
+nano .\.config\ssh\sly_ssh.ps1
+nano .\.config\pwsh\sly_pwsh.ps1
+notepad .\.config\pwsh\sly_pwsh.ps1
+pwsh
+clear
+Check-sshkey
+omac01
+ssh khammitt@omacsndbx01 -i '.\.ssh\id_rsa'
+ssh -i '.\.ssh\id_rsa' khammitt@omacsndbx01 
+ssh -o IdentitiesOnly=yes -i '.\.ssh\id_rsa' khammitt@omacsndbx01 
+ssh -o IdentitiesOnly=yes -o IdentityFile='.\.ssh\id_rsa' khammitt@omacsndbx01 
+Get-Service ssh-agent
+ssh-add -l
+ssh-add -D
+ssh-add -;
+ssh-add -l
+ssh-add .\.ssh\id_rsa
+ssh khammitt@omacsndbx01
+ssh-copy-id khammitt@omacsndbx01
+ssh-add -D
+scoop install plink
+gsudo 
+gsudo Stop-Process -Name "Zscaler Client Connector"
+Get-NetAdapterBinding -AllBindings -ComponentID ZS_ZAPPRD
+Get-NetAdapterBinding -AllBindings -ComponentID ZS_ZAPPRD | Disable-NetAdapterBinding
+scoop install plink
+scoop install putty
+clear
+plink -h
+help plink
+plink -pw PressTab123 khammitt@omacsndbx01
+zson
+plink -pw PressTab123 khammitt@omacsndbx01
+clear
+mov-cli
+mov-cli -s youtube configuring glazeWM
+scoop uninstall glazewm
+scoop install komorebi
+mov-cli -s youtube Rice Rice Baby Episode 1
+zsoff
+scoop install komorebi
+komorebi
+scoop uninstall komorebi
+scoop install komorebi
+komorebic
+komorebic quickstart
+komorebic start
+komorebic stop
+komorebic start -whkd -bar
+komorobeic start --whkd --bar
+komorebic start --whkd --bar
+scoop install whkd
+komorebic start --whkd --bar
+teams
+scoop install firefox
+scoop uninstall firefox
+scoop search firefox
+scoop firefox install
+scoop install firefox
+firefox
+omac01
+zson
+omac01
+clear
+omac1
+omac01
+clear
+omac01
+omac 01
+omac01
+clear
+omac01
+reboot
+pwsh
+clear
+omac01
+clear
+omac01
+clera
+clear
+omac01
+cd repos
+code dnai.py
+pip install rich
+ls
+.\dnai.py
+python
+python .\dnai.py
+pip install --upgrade urllib3
+python .\dnai.py
+python .\repos\
+cd .\repos\
+ls
+python .\dnai.py
+omac01
+python .\repos\dnai.py
+python .\repos\dnai.pclear
+clear
+python .\repos\dnai.py
+pip install ollama
+python .\repos\dnai.py
+scoop visidata
+scoop install visidate
+scoop install visidata
+pip install visidata
+cd
+ls
+cd .\Recent\
+ls
+cd ..
+cd .\repos\
+ls
+code dnai.py
+scoop install micro
+zsoff
+scoop uninsall nano
+scoop uninstall nano
+winget uninstall nano
+scoop install micro
+cd ..
+ls
+micro .\.config\pwsh\sly_pwsh.ps1
+print('hello')
+help
+clear
+help
+clear
+help
+clear
+2 + 2
+cd ..
+ cd..
+ls
+clear
+ls
+clear
+cd $HOME
+cd .\Recent\
+cd ..
+cd .\repos\
+micro llm_work
+notepad
+rm .\llm_work
+ld
+mov-cli -s youtube James Randal has enemies
+zson
+cd..
+ls
+code .\.config\pwsh\sly_pwsh.ps1
+omac01
+pwsh
+clear
+start01
+CLEAR
+CLEAR
+omac01
+omac01
+clear
+omac01
+clear
+omac01
+clear
+sudo fuser -k 11434/tcp
+clear
+sudo01
+pwsh
+clear
+omac01
+clear
+omac01
+clear
+omac01
+python .\repos\dnai.py
+code .\repos\dnai.py
+clear
+python .\repos\dnai.py
+code .\.config\pwsh\sly_pwsh.ps1
+mov-cli -s youtube currensy never get
+mov-cli
+mov-cli -s films mr.robot
+mov-cli -s youtube currensy
+omac0
+omac01
+komorebi stop
+komorebic stop
+komorebic start
+komorebic visible-windows
+komorebic show-panes
+komorebic --help
+komorebic visible-windows
+komorebi config
+komorebi --help
+komorebi -c
+komorebic -h
+komorebic ignore-rule -h
+komorebic ignore-rule exe 'ZSATray.exe'
+omac01
+clear
+omac01
+jlab01
+lab01
+ssh 8888:localhost:8888 khammitt@omacsndbx01
+ssh -N -L 8888:localhost:8888 khammitt@omacsndbx01
+omac01
+sudo01
+omac01
+clear
+omac01
+clear
+omac01
+scoop remove firefox
+scoop uninstall firefox
+clear
+omac01
+clear
+mov-cli -s youtube lowfi
+mov-cli -s youtube jet life playlist
+omac0
+omac01
+python .\repos\dnai.py
+micro .\repos\dnai.py
+python .\repos\dnai.py
+komorebic start
+scoop search query 
+python -v
+sudo1
+sudo01
+omac01
+komorebic stop
+omac01
+clear
+omac01
+omac
+oamc01
+omac01
+micro ollama_serve_launch.sh
+omac01
+clear
+nvim .\ollama_serve_launch.sh
+omac01
+clear
+omac01
+clear
+omac01
+mov-cli -s youtube playboi carti type beat
+mov-cli -s youtube sebastian paul high
+omac01
+omac1
+omac01
+clear
+df -h
+omac01
+clear
+omac01
+zsoff
+cd .\.config\
+ls
+cd ..
+ls
+gsudo rm -r -fo .config\wezterm
+ls
+weztern
+wezterm
+wezterm connect omac01
+wezterm
+omac01
+zson
+zsoff
+omac01
+zson
+omac01
+mov-cli -s youtube currensy type beats
+mov-cli -s youtube currensy type beats playlist
+mov-cli -s youtube james randal man manson
+zsoff
+zsoff
+zson
+omac01
+python -m venv venv
+python --version
+pip install python==3.11
+python --version
+python list
+python
+python 3.11
+python3.11 --version
+python3 --version
+py -version
+py --version
+ls
+cd .\repos\
+ls
+cd .\mother_brain_x\
+ls
+cd .\hud_sa\
+ls
+sudo rm .\venv\
+ls
+py -m venv venv
+.\venv\Scripts\activate
+cd ..
+ls
+cd .\hud_sa\
+ls
+pip install open-webui
+pip uninstall open-webui
+py -m pip install --upgrade pip
+pip install open-webui
+pip purge
+pip -h
+pip cache -h
+pip cache purge
+pip --version
+pip install open-webui
+OLLAMA_HOST=omacsndbx01.signatureperformance.com:11434 open-webui serve
+$env:OLLAMA_HOST="http://omacsndbx01.signatureperformance.com:11434" open-ui serve
+$env:OLLAMA_HOST="http://omacsndbx01.signatureperformance.com:11434" open-webui serve
+$env:OLLAMA_HOST="http://omacsndbx01.signatureperformance.com:11434"
+open-webui serve
+$env:OLLAMA_HOST="0.0.0.0:11434"
+open-webui serve
+omac01
+$env:OLLAMA_HOST="0.0.0.0:11434"
+$env:OLLAMA_HOST="http://omacsndbx01.signatureperformance.com:11434"
+ls
+cd .\venv\Lib\
+ls
+cd .\site-packages\
+ls
+cd open-webui
+cd open_webui
+ls
+nano env.py
+micro env.py
+ls
+cd ..
+ls
+ollama -v
+omac01
+$env:OLLAMA_BASE_URL="http://omacsndbx01.signatureperformance.com:11434"
+open-webui serve
+cd .\repos\
+ls
+cd .\mother_brain_x\
+ls
+cd .\hud_sa\
+ls
+.\venv\Scripts\activate
+cd ..
+$env:OLLAMA_BASE_URL="http://omacsndbx01.signatureperformance.com:11434"
+open-webui serve
+$env:OLLAMA_BASE_URL="http://omacsndbx01.signatureperformance.com:11434"
+open-webui
+open-webui serve
+cd .\hud_sa\
+cd .\mother_brain_x\
+cd .\repos\
+cd .\mother_brain_x\
+ls
+cd .\hud_sa\
+ls
+.\venv\Scripts\activate
+$env:OLLAMA_BASE_URL="http://omacsndbx01.signatureperformance.com:11434"
+open-webui serve
+oamc
+omac01
+oamc01
+clear
+omac01
+omac 01
+omac01
+cd /home
+cdkhammitt
+cd khammitt
+cd .ollama
+ls
+omac01
+cd /usr/local/bin
+omac01
+oma01
+clear
+omac01
+oamc
+omac01
+wezterm
+clear
+wezterm ssh khammitt@omacsndbx01
+$env:OLLAMA_BASE_URL="http://omacsndbx01.signatureperformance.com:11434"
+$env:OLLAMA_BASE_URL="http://omacsndbx01.signatureperformance.com:11434" open-webui serve
+$env:OLLAMA_BASE_URL="http://omacsndbx01.signatureperformance.com:11434"
+open-webui serve
+cd .\repos\mother_brain_x\
+ls
+cd .\hud_sa\
+.\venv\Scripts\activate
+$env:OLLAMA_BASE_URL="http://omacsndbx01.signatureperformance.com:11434"
+open-webui serve
+ls
+cd .\repos\mother_brain_x\
+ls
+cd .\hud_sa\
+.\venv\Scripts\activate
+pip uninstall web-ui
+pip uninstall open-webui
+ls
+rm .\.webui_secret_key
+ls
+cd ..
+ls
+cd .\hud_sa\
+cd ..
+rm .\.webui_secret_key
+ls
+cd .\hud_sa\
+ls
+sudo rm -r venv
+py -m venv venv
+.\venv\bin\activate
+.\venv\
+cd .\venv\
+cd .\Scripts\
+.\activate
+cd ..
+ls
+pip install fastpi "uvicorn[standard]" python-multipart langchain
+pip install fastapi "uvicorn[standard]" python-multipart langchain
+py -m pip install --upgrade pip
+pip install fastapi "uvicorn[standard]" python-multipart langchain
+mkdir backend
+ls
+cd .\backend\
+nano 
+micro main.py
+cd ..
+npx
+scoop install npx
+zsoff
+scoop install npx
+scoop search npx
+npx create-react-app frontend
+npm
+node
+deactivate
+winget install Schniz.fnm
+fnm
+pwsh
+fnm
+fnm install 22
+winget uninstall fnm
+node -v
+node
+npm
+npx
+cd khammitt
+cd .\repos\
+cd .\mother_brain_x\
+cd .\hud_sa\
+ls
+npx create-react-app frontend
+ls
+rm -r frontend
+sudo rm -r frontend
+cd .\repos\
+ls
+cd .\mother_brain_x\
+ls
+cd .\hud_sa\
+npx create-react-app frontend --template react@18
+npx create-react-app frontend --template cra-template@6.1.5
+ls
+npx create-react-app frontend --template cra-template@1.1.2
+cd .\frontend\
+ls
+npm install axios @mui/material @emotion/react @emotion/styled
+npm start
+cd .\repos\
+cd .\mother_brain_x\
+ls
+cd .\hud_sa\
+npx create-react-app frontend --template cra-template@1.1.2
+zson
+npm start
+ls
+cd frontend
+ls
+cd src
+ls
+npm start
+cd ..
+npm install framer-motion
+npm start
+npm install react-icons
+npm start
+npm install howler
+zsoff
+zson
+npm start
+npm install @react-three/fiber @react-three/drei three
+npm install react-lottie
+npm start
+cd ..
+npm startr
+npm start
+cd .\frontend\
+npm start
+zson
+npm start
+zson
+npm start
+npm install @langchain/community @langchain/core
+npm install @langchain/core
+npm install @langchain/langgraph @langchain/core
+npm start
+npm install @langchain/ollama
+npm start
+omac01
+cd .\repos\
+cd .\mother_brain_x\
+cd .\hud_sa\
+ls
+cd .\frontend\
+npm start
+wezterm connect omac01
+wezterm ssh khammitt@omacsndbx01
+npm start
+npm start
+cd .\repos\
+ls
+cd .\mother_brain_x\
+cd .\hud_sa\
+ls
+cd .\venv\Scripts\
+.\activate
+cd ..
+pip list
+pip install langchain_ollama
+cd .\frontend\
+npm start
+wezterm ssh khammitt@omacsndbx01
+npm start
+omac01
+npm start
+curl -X POST http://localhost:3000/api/v1/ask -H "Content-Type: application/json" -d ("message":"Hello")
+curl -X POST http://localhost:3000/api/v1/ask -H "Content-Type: application/json" -d '("message":"Hello")'
+uvicorn main:app --host 0.0.0.0 --port 3000 --reload
+cd ..
+cd .\backend\
+ls
+uvicorn main:app --host 0.0.0.0 --port 3000 --reload
+curl -X POST http://localhost:3000/api/v1/ask -H "Content-Type: application/json" -d '{"message": "Hello"}'
+uvicorn main:app --host 0.0.0.0 --port 3000 --reload
+curl -X POST http://localhost:3000/api/v1/ask -H "Content-Type: application/json" -d '{"message": "Hello"}'
+npm start
+uvicorn main:app --host 0.0.0.0 --port 3000 --reload
+curl -X POST http://localhost:3000/api/v1/ask -H "Content-Type: application/json" -d '{"message": "Hello"}'
+uvicorn main:app --host 0.0.0.0 --port 3000 --reload
+curl -X POST http://localhost:3000/api/v1/ask -H "Content-Type: application/json" -d '{"message": "Hello"}'
+omac01
+uvicorn main:app --host 0.0.0.0 --port 3000 --reload
+curl -X POST http://localhost:3000/api/v1/ask -H "Content-Type: application/json" -d '{"message": "Hello"}'
+uvicorn main:app --host 0.0.0.0 --port 3000 --reload
+curl -X POST http://localhost:3000/api/v1/ask -H "Content-Type: application/json" -d '{"message": "Hello"}'
+npm start
+uvicorn main:app --host 0.0.0.0 --port 3000 --reload
+curl -X POST http://localhost:3000/api/v1/ask -H "Content-Type: application/json" -d '{"message": "Hello"}'
+npm start
+uvicorn main:app --host 0.0.0.0 --port 3000 --reload
+curl -X POST http://localhost:3000/api/v1/ask -H "Content-Type: application/json" -d '{"message": "Hello"}'
+uvicorn main:app --host 0.0.0.0 --port 3000 --reload
+curl -X POST http://localhost:3000/api/v1/ask -H "Content-Type: application/json" -d '{"message": "Hello"}'
+npm start
+npm install --same-dev concurrently
+ls
+code package.json
+npm run dev
+uvicorn main:app --host 0.0.0.0 --port 3001 --reload
+curl http://omacsndbx01.signatureperformance.com:11434
+curl http://omacsndbx01.signatureperformance.com:11434/api/tags
+omac01
+curl http://omacsndbx01.signatureperformance.com:11434/api/tags
+uvicorn main:app --host 0.0.0.0 --port 3001 --reload
+clear
+omac01
+uvicorn main:app --host 0.0.0.0 --port 3001 --reload
+curl -X POST http://localhost:3001/api/v1/ask -H "Content-Type: application/json" -d '{"message": "Hello"}'
+npm start
+omac01
+cd .\repos\mother_brain_x\
+ls
+cd .\hud_sa\
+ls
+cd .\venv\Scripts\
+ls
+.\activate
+cd ..
+ls
+cd .\backend\
+ls
+cd ..
+uvicorn app.main:app --host 0.0.0.0 --port 3001
+ls
+uvicorn backend.main:app --host 0.0.0.0 --port 3001
+clear
+ls
+cd .\backend\
+ls
+uvicorn main:app --host 0.0.0.0 --port 3001
+omac01
+uvicorn main:app --host 0.0.0.0 --port 3001
+cd ..
+cd .\frontend\
+cd ..
+npm start
+cd .\frontend\
+npm start
+pip install fastapi uvicorn langchain-ollama python-multiport pydantic
+pip install fastapi uvicorn langchain-ollama python-multipart pydantic
+cleasr
+clear
+clear
+clear
+omac01
+ls
+uvicorn main:app --host 0.0.0.0 --port 3001
+npm start
+uvicorn main:app --host 0.0.0.0 --port 3001
+npm start
+omac01
+uvicorn main:app --host 0.0.0.0 --port 3001
+npm start
+omac01
+sudo01
+omac01
+nohup
+ollama start
+omac0
+omac01
+komorebic start
+komorebic stop
+cd .\Recent\
+cd ~
+ls
+cd .\repos\
+ls
+cd .\qa_review\
+ls
+py -m venv venv
+ls
+py -vg
+py -v
+py --version
+cd .\venv\Scripts\
+.\activate
+cd ..
+ls
+pip install langchain-ollama
+pip install ollama
+pip install pandas ipykernel jupyter
+py -m pip install --upgrade pip
+pip install pandas ipykernel jupyter ollama langchain-ollama
+pip install pandas ipykernel jupyter ollama langchain-ollama -U
+pip install streamlit
+omac01
+streamlit run .\streamlit_app.py
+streamlit run .\originak_applet\streamlit_app.py
+ls
+streamlit run .\original_applet\streamlit_app.py
+streamlit run .\streamlit_app.py
+ls
+.\venv\Scripts\activate
+streamlit run .\streamlit_app.py
+pip install markdown2
+streamlit run .\streamlit_app.py
+omac0
+omac01
+cd .\repos\qa_review\
+.\venv\Scripts\activate
+streamlit run .\streamlit_app.py
+omac01
+streamlit run .\streamlit_app.py
+omac01
+streamlit run .\streamlit_app.py
+exit
+cd .\repos\contract_requests\
+ls
+cd .\ocr\
+ls
+omac01
+code $PROFILE
+omaclab01
+ssh -N -L 8888:localhost:8888 khammitt@omacsndbx01
+dir /s /b /a:-d *.txt
+omac01
+cd .\repos\contract_requests\
+ls
+cd .\ocr\
+ls
+cd ..
+ls .\qa_review\
+ls
+./venv/Scripts/activate
+ls
+cd .\qa_review\
+ls
+.\venv\Scripts\activate
+streamlit run .\streamlit_app.py
+zsoff
+komorebic start -whkd -bar
+komorebic start --whkd --bar
+mov-cli -s youtube JAMES RANDAL & THE CITY HALL BOMB! NoPixel 4.0!
+clear
+youtube james randal destroys a plane
+pip install mov-cli -U
+youtube james randal destroys a plane
+mov-cli --hel
+mov-cli --help
+gsudo .\.config\mov-cli\mov-cli-config-symlink.ps1
+mov-cli -e
+Remove-Item "$env:LocalAppData\mov-cli\config.toml" -Force -Recurse
+mov-cli --help
+mov-cli --config 
+yt JAMES RANDAL IN FUTURE MODE! 
+yt JAMES RANDAL IN FUTURE MODE!
+clear
+yt JAMES RANDAL IN FUTURE MODE!
+komorebic --help
+komorebic configuration
+notepad++ .
+code .\komorebi.json
+komorebic restart
+komorebic stop
+komorebic start
+code .\komorebi.bar.json
+scoop search yasb
+winget install --id AmN.yasb
+komorebic --help
+yasb --help
+komorebic stop
+komorebic start --whkd
+komorebic stop
+komorebic start --whkd
+wkhd --hel
+whkdrc --help
+whkd --help
+whkd --c
+whkd --help --c
+whkd --c
+whkd --config
+whkd --help
+komorebic stop
+komorebic start --whkd
+komorebic stop
+whkd stop
+whkd --h
+whkd --help
+komorebic start --whkd
+komorebic stop
+whkd stop
+komorebic start --whkd
+komorebic stop
+komorebic start --whkd
+komorebic stop
+komorebic start --whkd
+komorebic stop
+komorebic start --whkd
+komorebic stop
+komorebic start --whkd
+komorebic stop --whkd
+komorebic start --whkd
+clear
+c;ear
+yt james
+yt james randal
+cd .\.cache\
+cd ..
+cd .\.config\
+ls
+cd .\yasb\
+ls
+micro config.yaml
+cd .\.config\
+ls
+cd yasb
+ls
+micro styles.css
+yt JAMES RANDAL IN FUTURE MODE!
+cd .\.config\
+ls
+cd .\yasb\
+ls
+micro .\styles.css
+micro .\config.yaml
+micro .\styles.css
+yt james randal future mode
+clear
+cd .\.conda\
+cd ..
+cd config
+cd .\.config\
+cd .\wezterm\
+micro .\wezterm.lua
+oh-my-posh -h
+scoop uninstall oh-my-posh.exe
+scoop uninstall oh-my-posh
+scoop install starship
+scoop install extras/vcredist2022
+micro C:\Users\khammitt\.config\pwsh\sly_pwsh.ps1
+micro something
+clear
+nano .\.config\wezterm\
+nano .\.config\wezterm\wezterm.lua
+micro .\.config\wezterm\wezterm.lua
+clear
+cd .\wezterm\
+cd C:
+ls
+cd ..
+ls
+nvim
+nvim --edit
+nvim --h
+nvim --help
+micro $env:LocalAppData\nvim\lua\init.lua
+micro C:\Users\khammitt\AppData\Local\nvim\init.lua
+nvim
+scoop uninstall llvm
+choclatey
+chocolatey
+choco
+choco --help
+winget install chocolatey
+gsudo choco install llvm
+cd C:\ProgramData
+ls
+cd .\chocolatey\
+ls
+choco
+choco install llvm
+gsudo choco install llvm
+nvim
+gsudo choco install luarocks
+nvim
+gsudo choco install rg
+refreshenv
+nvim
+choco install lazygit
+npm install -g neovim
+choco install ripgrep
+nvim
+choco install fd
+refreshenv
+pwsh
+clear
+nvim
+zsoff
+exit
+nvim
+scoop list
+winget list
+fd fish
+choco uninstall neovim
+scoop uninstall lazyvim
+scoop list
+scoop uninstall neovim
+winget uninstall neovim
+winget uninstall nvim
+choco list
+choco --help
+choco cache --help
+choco cache remove
+gsudo choco cache remove
+pip cache -h
+pip cache purge
+scoop cache purge
+winget cache purge
+llvm
+clang
+clang -v
+rm -rf ~/.config/nvim/.git
+Remove-Item $env:LOCALAPPDATA\nvim\.git -Recurse -Force
+nvim
+gsudo choco luarocks
+gsudo choco install luarocks
+gsudo choco install luarocks --force
+luarocks --help
+gsudo choco uninstall luarocks
+scoop search luarocks
+scoop install luarocks
+winget list
+winget --help
+winget upgrade neovim
+winget upgrade Neovim
+winget upgrade nvim
+scoop install ast-grep
+scoop install unzip gzip wget
+nvim
+choco install zig
+gsudo choco install zig
+nvim
+yt nvim setup
+yt devaslife neovim
+cd .\.config\
+ls
+mkdir nvim
+cd .\nvim\
+mkdir lua
+cd .\lua\
+mkdir plugins
+cd .\plugins\
+mico colorscheme.lua
+micro colorscheme.lua
+nvim
+echo -e "\e[4:3mThis text has an undercurl\e[0m"`
+
+nvim
+winget install make
+scoop search make
+scoop install make cmake
+nvim
+nvm
+nvim

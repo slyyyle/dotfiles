@@ -1,0 +1,66 @@
+sqls java c# react go yaml-companion rest client
+
+snippets vs luasnip vs snippet engine?
+
+what is tailwind?
+
+project manager
+
+nvim-colorizer?
+
+colorful-menu?
+
+tabline / bufferline?
+
+cursorline?
+
+startup
+
+icons
+
+image viewer, image ebedder, remote reaper control nvim, 
+
+notetaking app - maybe craftzdogs
+
+utilities
+
+willothy/wezterm.nvim - Functions for interacting with Wezterm.
+
+what is quickfix
+
+what i a hot reloader
+
+(REMOTE DEV SECTION) ssh in neovim
+
+code runner
+
+what are lua rocks and what is lazydev and lazy get
+
+what is fennel
+
+neo scroll - smooth scrolling
+
+auto indent
+
+motion trainer neovim
+
+maybe pick better debugging?
+
+
+    ThePrimeagen/vim-be-good - Vim-be-good is a Neovim plugin designed to make you better at Vim Movements.
+    alec-gibson/nvim-tetris - Bringing emacs' greatest feature to Neovim - Tetris!.
+    seandewar/nvimesweeper - Play Minesweeper in your favourite text editor.
+    seandewar/killersheep.nvim - Neovim port of killersheep.
+    rktjmp/playtime.nvim - A collection of games such as Freecell, Shenzhen Solitaire and The Emissary.
+    Eandrju/cellular-automaton.nvim - It lets you execute aesthetically pleasing, cellular automaton animations based on the content of Neovim buffer.
+    alanfortlink/blackjack.nvim - Classic Black Jack game.
+    jim-fx/sudoku.nvim - Classic sudoku puzzle.
+    csessh/aoc.vim - Simple little elf who fetches Advent of Code puzzle input for you.
+
+hardtime / bad practices
+
+neovimcraft, dotfyle, neolan, nvim-training
+
+neovim UI
+
+
